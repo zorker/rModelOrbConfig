@@ -267,6 +267,12 @@ local function RegisterOptionsPanel()
     container:Add("orb_filling19", "exoplanet2")
     container:Add("orb_filling20", "skyrim")
     container:Add("orb_filling21", "obsidian")
+    container:Add("orb_filling22", "mum1")
+    container:Add("orb_filling23", "mum2")
+    container:Add("orb_filling24", "mum3")
+    container:Add("orb_filling25", "mum4")
+    container:Add("orb_filling26", "mum5")
+    container:Add("orb_filling27", "mum6")
     return container:GetData()
   end
 
